@@ -3,7 +3,7 @@
 ## Overview  
 This repository contains a structured collection of **Generative AI (GenAI) architectures, LLM training methodologies, and use case examples**. It is designed to help professionals and learners understand **how Large Language Models (LLMs) are built, trained, and applied in real-world scenarios**.  
 
-For **general Data Science architectures and interview questions**, visit the **[Data Science & AI Architecture Repository](https://github.com/RohitVyavahare2001/As-Data-Science-GenAI-Architecture).**  
+For **general Data Science architectures and interview questions**, visit the **[Data Science & AI Architecture Repository](https://github.com/RohitVyavahare2001/Data-Science-Architecture).**  
 
 ## Repository Structure  
 
@@ -35,6 +35,6 @@ For **general Data Science architectures and interview questions**, visit the **
 - **For Understanding LLM Architectures:** Explore the **"GENAI Architectures of Different LLMs"** folder.  
 - **For Real-World Applications:** Check the **"GEN AI Architecture Use Case Examples"** folder.  
 
-For **general Data Science system architectures**, refer to the **[Data Science & AI Architecture Repository](https://github.com/RohitVyavahare2001/As-Data-Science-GenAI-Architecture).**  
+For **general Data Science system architectures**, refer to the **[Data Science & AI Architecture Repository](https://github.com/RohitVyavahare2001/Data-Science-Architecture).**  
 
 This repository is a **comprehensive guide to GenAI system design, LLM architectures, and training methodologies**. 🚀  
